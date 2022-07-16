@@ -1,0 +1,157 @@
+
+.global{
+	margin: 10px;
+	width: 250px;
+	height: auto;
+	text-align: center;
+	border: 3px outset darkgray;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	box-shadow: 10px 10px 10px 10px rgba(220, 220, 220, 1.0);
+}
+
+/* utiliser pour le consulter de nos pages*/
+.consultp 
+{text-align:left;font-family:broadway;font-size:16pts;color:black;}
+
+/* utiliser pour les liens de pages */
+.menu{
+display:flex;
+padding:0;
+background-color:light blue;
+list-style-type:none;
+min-width:120px;}
+
+.menu a{
+/* utiliser pour transformer le block*/
+display:block;
+/* utiliser pour donner une largeur minimale au lien*/
+min-width:120px;
+/* utiliser pour les marges externes*/
+margin:0.5rem;
+/* utiliser pour les marges internes */
+padding:0.4rem 0;
+/* utiliser pour centrer les les elements */
+text-align:center;
+/* utiliser pour les couleurs d'arière plan*/
+background-color:fuchsia;
+/* utiliser pour la couleur du texte*/
+color:purple;
+/* utiliser pour la suppression des elements*/
+text-decoration:none;
+/* utiliser pour la suppression du soulignement */
+font-family:castellar;
+border:1px solid purple;
+/* utiliser pour ajouter une bordure*/
+border-radius:4px;
+/* utiliser pour ajouter des effets de transition*/
+
+}
+link:hover{color:red;}
+
+
+/* utiliser pour le consulter de nos pages*/
+
+.box {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border: 3px solid transparent;}
+	.top,
+	.bottom,
+	.left,
+	.right{
+		position: absolute;
+		-webkit-animation: 8s linear infinite;
+		animation: 8s linear infinite;}
+		.top{
+			top: -3px;
+			left: -3px;
+			height: 3px;
+			-webkit-animation-name: top;
+			animation-name: top;}
+@-webkit-keyframes top{
+	25% {
+		width: 0;
+		background: #ffdb00;}
+		38%{
+			width: calc(103%);
+		    background: #ffdb00;}
+		    50%{
+		    	background: #ffdb00;}
+		    	62%{background: #ffdb00;}
+		    	75% {width: calc(103%);
+		    		background: #ffdb00;}
+		    		88%{
+		    			left: auto;
+		    			right: -3px;
+		    			width: 0;
+		    			background: #ffdb00;}}
+
+		    			.bottom{
+		    				bottom: -3px;
+		    				right: -3px;
+		    				height: 3px;
+		    				-webkit-animation-name: bottom;
+		    				animation-name: bottom;}
+		    				@-webkit-keyframes bottom {
+		    					0% {
+		    						width: 0;}
+		    						12%{width: calc(103%);
+		    							background: #ffdb00;}
+
+		    							25%{background: #ffdb00;}
+		    							38%{background: #ffdb00;}
+		    							50%{width: calc(103%);
+		    							background: #ffdb00;}
+		    							62%{left: -3px;
+		    								width: 0;
+		    							background: #ffdb00;}}
+		    							.left{
+		    								bottom: -3px;
+		    								left: -3px;
+		    								width: 3px;
+		    								-webkit-animation-name: left;
+		    								animation-name: left;}
+		    								@-webkit-keyframes left{
+		    									12%{ height: 0;
+		    							             background: #ffdb00;}
+		    							             25%{height: calc(103%);
+		    							                 background: #ffdb00;}
+		    							                 38%{background: #ffdb00;}
+		    							                 50%{background: #ffdb00;}
+		    							                 62%{height:calc(103%);
+		    							                 	background: #ffdb00;}
+		    							                 	75%{top: -3px;
+		    							                 		height: 0;
+		    							                 		background: #ffdb00;}
+		    							                 		88%{background: #ffdb00;}}
+		    							                 		.right{
+		    							                 			top: -3px;
+		    							                 			right: -3px;
+		    							                 			width: 3px;
+		    							                 			-webkit-animation-name: right;
+		    							                 			animation-name: right;}
+		    							                 			@-webkit-keyframes right{
+		    							                 				38%{height: 0;
+		    							                 					background: #ffdb00;}
+		    							                 					50%{height: calc(103%);
+		    							                 						background: #ffdb00;}
+		    							                 						62%{background: #ffdb00;}
+		    							                 						75%{background: #ffdb00;}
+		    							                 						88%{height: calc(103%);
+		    							                 						    background: #ffdb00;}
+		    							                 						    100%{top: auto;
+		    							                 						    	bottom: -3px;
+		    							                 						    	height: 0;
+		    							                 						    	background: #ffdb00;}}
+
+
+
+
+
+
+

@@ -1,0 +1,466 @@
+
+           body{
+           	background-position:center bottom; 
+            background-repeat:;
+           	background-size:;
+           	background-color:;
+           	background-color:lightsteelblue;
+           	margin:auto; 
+           	width:1000px;
+
+           }
+ 
+         header{        
+            color: red;
+            background-image: url("Image/H.jpg");
+            width: 100%;
+            height: 500px ;
+            margin-left:110px;
+            margin-right: 100px;
+            background-repeat:no-repeat; 
+
+        } 
+
+          .p1{
+          	color: blue;
+          	font-weight: bold;
+          	text-decoration: underline;
+
+          }
+
+          .p2{
+          	color: blue;
+          	font-weight: bold;
+          	text-decoration: underline;
+
+          }
+
+          .p3{
+          	color: blue;
+          	font-weight: bold;
+          	text-decoration: underline;
+          	text-align: justify;
+
+          }
+
+          .p4{
+          	color: blue;
+          	font-weight: bold;
+          	text-decoration: underline;
+          	text-align: justify;
+
+          }
+
+          .p5{
+          	color: blue;
+          	font-weight: bold;
+          	text-decoration: underline;
+          	text-align: justify;
+
+          }
+
+           .p6{
+          	color: blue;
+          	font-weight: bold;
+          	text-decoration: underline;
+          	text-align: justify;
+
+          }
+
+          .p7{
+          	color: blue;
+          	font-weight: bold;
+          	text-decoration: underline;
+          	text-align: justify;
+
+          }
+
+         .a1{     
+            font-style:italic;  
+            font-family: arial;    
+            font-size: 1.2em;
+            letter-spacing: 1pt; 
+            word-spacing: 3pt;
+   } 
+
+          .a2{
+          	font-style:italic; 
+          	font-family: arial;     
+            font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+          }
+
+          .a3{
+          	font-style:italic; 
+          	font-family: arial;     
+            font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+          }
+
+          .a4{
+          	font-style:italic; 
+          	font-family: arial;     
+            font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+          }
+
+          .a5{
+          	font-style:italic; 
+          	font-family: arial;     
+            font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+          }
+
+          .a6{
+          	font-style:italic;
+          	font-family: arial;     
+            font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+          }
+
+          .a7{
+          	font-style:italic;
+          	font-family: arial;      
+            font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+          }
+
+          .b1{
+          	font-weight:bold;
+          }
+
+          .b2{
+          	font-weight:bold;
+          }
+
+          .b3{
+          	font-weight:bold;
+          }
+
+          .b4{
+          	font-weight:bold;
+          }
+
+          .b5{
+          	font-weight:bold;
+          	list-style-type: circle;
+
+          }
+
+          .b6{
+          	font-weight:bold;
+          	list-style-type: disc;
+          }
+
+          .b7{
+          	font-weight:bold;
+          	list-style-type: square;
+          }
+
+
+          .c1{
+          	font-weight:bold;
+          	font-family: times;
+          	color: blue;
+          	font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+
+          }
+
+          .c2{
+          	font-weight:bold;
+          	font-family: times;
+          	color: blue;
+          	font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+
+          }
+
+          .c3{
+          	font-weight:bold;
+          	font-family: times;
+          	color: blue;
+          	font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+
+          }
+
+          .c4{
+          	font-weight:bold;
+          	font-family: times;
+          	color: blue;
+          	font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+
+          }
+
+          .c5{
+          	font-weight:bold;
+          	font-family: times;
+          	color: blue;
+          	font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+
+          }
+
+          .c6{
+          	font-weight:bold;
+          	font-family: times;
+          	color: blue;
+          	font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+
+          }
+
+          .c7{
+          	font-weight:bold;
+          	font-family: times;
+          	color: blue;
+          	font-size: 1.2em;
+            letter-spacing: 1pt;
+            word-spacing: 3pt;
+
+          }
+
+           .img{
+           	width: 300vw,
+          	height: 300vh;
+          	max-width: 700px;
+
+          }
+
+          #h{
+          	font-style: oblique;
+          	font:verdana;
+          	font-size: 20px;
+          	text-align: left;
+          	vertical-align: middle;
+          	text-align: justify;
+          	
+          }
+
+          #m{
+          	font-size: 14pt; 
+          	font-family: coper black;
+          	font-weight: 100;
+          	font-style: oblique;
+          	text-transform: none;
+          	text-decoration: underline;
+          	letter-spacing: 1pt
+          	word-spacing: 3pt;
+          	color: indianred;
+          }
+
+          #contenu{
+          	font-family: bodoni mt; 
+          	font-size: 20pt;
+          	font-style: italic;
+          }
+
+          #min{
+          	font-family: arial black;
+          	font-style: oblique;
+          	font-size: 15pt;
+          	font-weight: bold;
+          	letter-spacing: 1pt;
+          	word-spacing: 3pt;
+          }
+
+          #l{
+          	font-style: oblique;
+          	font-size: 15px;
+          	font-family: cooper black;
+          	font-weight: 100;
+          	letter-spacing: 3pt;
+          	word-spacing: 4pt;
+          }
+
+          footer
+         { padding-top: 20px;
+           text-align: center;
+           margin-top: 50px ;
+           height: 100px;
+           background-color:rgba(52,180,207,1);
+          }
+
+div#Acceuil,div#produit,div#contact,div#Inscription
+{
+  background-color:rgba(52,180,207,0.5);
+  width:110px;
+  height:20px;
+  text-align:center;
+  margin-left:20px;
+
+}
+ruby{
+    color:red;
+    font-weight:bold;
+    font-family: cooper black;
+    height:90px;
+    font-style: oblique;
+    font-size: 100px;}
+
+/* utiliser pour les liens de pages */
+.menu{
+display:flex;
+padding:0;
+background-color:light blue;
+list-style-type:none;
+min-width:120px;}
+
+.menu a{
+/* utiliser pour transformer le block*/
+display:block;
+/* utiliser pour donner une largeur minimale au lien*/
+min-width:120px;
+/* utiliser pour les marges externes*/
+margin:0.5rem;
+/* utiliser pour les marges internes */
+padding:0.4rem 0;
+/* utiliser pour centrer les les elements */
+text-align:center;
+/* utiliser pour les couleurs d'arière plan*/
+background-color:fuchsia;
+/* utiliser pour la couleur du texte*/
+color:purple;
+/* utiliser pour la suppression des elements*/
+text-decoration:none;
+/* utiliser pour la suppression du soulignement */
+font-family:castellar;
+border:1px solid purple;
+/* utiliser pour ajouter une bordure*/
+border-radius:4px;
+/* utiliser pour ajouter des effets de transition*/
+
+}
+link:hover{color:red;}
+
+.global{
+  margin: 10px;
+  width: 250px;
+  height: auto;
+  text-align: center;
+  border: 3px outset darkgray;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  box-shadow: 10px 10px 10px 10px rgba(220, 220, 220, 1.0);
+}
+
+input{width: 500px;
+width: 200px;margin:2rem auto; border: 3px solid green; padding: 3px; background: transparent; border-radius: 10px;
+ outline: none;}
+::placeholder{ color:#00ced1; }
+.btn{background: purple;border: solid; height: 2rem;border-radius: 20px; width: 150px; display: inline;;
+ color:white;outline: none;margin: 2rem auto;}
+
+// Button 1
+@colour1: blue;
+@colour2: yellow;
+// Button 2
+@colour3: black;
+@colour4: red;
+// Button 3
+@colour5: purple;
+@colour6: marron;
+// Button 4
+@colour7: white;
+@colour8: chocolate;
+/*button{
+margin: 2em auto;
+  display: inline;
+  -webkit-appearance: none;
+  border: 6px solid ;
+  border-radius: 220px red;
+  padding: 1em 3em;
+  background-repeat: no-repeat;
+  background-size: 220px;
+  background-clip: padding-box green;
+  position: relative;
+  background-color:green;
+}
+/*button:before {
+  content: "";
+  width: 220px;
+  height:220px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  border-radius: 50px;
+  z-index: -1;
+  filter: blur(14px);
+ background-color:green;
+}
+button:after {
+  content: "";
+  width: 100%;
+  height:100%;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  border-radius: 50px;
+  z-index: -1;
+  filter: blur(14px);
+
+  background-color:green;
+}
+.button1 {
+  background-image: linear-gradient(90deg, @colour1, @colour2);
+}
+.button1:before { background-image: linear-gradient(90deg, @colour1, transparent);}
+
+.button1:after { background-image: linear-gradient(90deg,transparent, @colour2);}
+
+          
+
+.button2 {
+  background-image: linear-gradient(90deg, @colour3, @colour4);}
+
+.button2:before {
+  background-image: linear-gradient(90deg, @colour3, transparent);
+}
+
+.button2:after {
+  background-image: linear-gradient(90deg, transparent, @colour4);
+}
+
+.button3 {
+  background-image: linear-gradient(90deg, @colour5, @colour6);
+}
+.button3:before {
+  background-image: linear-gradient(90deg, @colour5, transparent);
+}
+
+.button3:after {
+  background-image: linear-gradient(90deg, transparent, @colour6);
+}
+
+.button4 {
+  background-image: linear-gradient(90deg, @colour7, @colour8);
+}
+.button4:before {
+  background-image: linear-gradient(90deg, @colour7, transparent);
+}
+.button4:after {
+  background-image: linear-gradient(90deg, transparent, @colour8);
+}
+
+
+
+
+
+
+
